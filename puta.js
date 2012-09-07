@@ -1,5 +1,5 @@
 
-a ='eres un puta';
+a ='eres un puta y una perra';
 
 console.log(a);
 
