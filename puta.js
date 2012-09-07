@@ -1,7 +1,7 @@
 
 a ='eres un puta';
-
-console.log(a);
+b = "pero no lo batante"
+console.log(a+" "+b);
 
 
 lala =1 ;
