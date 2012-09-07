@@ -1,1 +1,2 @@
-ijshahcbjs	sj skjs
+var a = 20;
+console.log (a);
